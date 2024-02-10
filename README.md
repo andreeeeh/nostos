@@ -9,14 +9,14 @@ Other users are then able to rate and comment on these entries and receive award
 # The Tech
 
 Front-end  
-[React Native](https://reactnative.dev/) in [Typescript](https://www.typescriptlang.org/)
-[Google Places API](https://developers.google.com/maps) for map interactions and place generation  
-[Dall-E](https://openai.com/dall-e-2) for some image generation.
-
-Back-end:  
-[Jest.js](https://jestjs.io/) with Supertest  
-[Prisma](https://www.prisma.io/) for database interactions  
-[AWS](https://aws.amazon.com/) for database hosting  
+- [React Native](https://reactnative.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Google Places API](https://developers.google.com/maps)
+- [Dall-E](https://openai.com/dall-e-2)
+- [Node.js](https://nodejs.org/en)
+- [Jest.js](https://jestjs.io/) with Supertest  
+- [Prisma](https://www.prisma.io/)
+- [AWS](https://aws.amazon.com/)
 
 [Figma](https://www.figma.com/) and [Trello](https://trello.com/) for design and task management.  
 
