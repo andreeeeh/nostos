@@ -35,12 +35,12 @@ This project was created in two-weeks by the following contributors:
 [Visit YouTube](https://youtu.be/tUzWbjgdQwU)
 
 # Screenshots
-![alt](/screenshots/ship-view.png)
-![alt](/screenshots/world-map.png)
-![alt](/screenshots/entry-list.png)
-![alt](/screenshots/new-entry.png)
-![alt](/screenshots/entry-view.png)
-![alt](/screenshots/profile-page.png)
+![image](https://github.com/andreeeeh/nostos/assets/144232373/ee40e272-74ca-4cf0-b785-50db5d3f2712)
+![image](https://github.com/andreeeeh/nostos/assets/144232373/2982b00b-ceed-4a83-8215-a98d1dccedc5)
+![image](https://github.com/andreeeeh/nostos/assets/144232373/7ca108e6-3d1a-48d0-a7bb-5a0a9f18d7e1)
+![image](https://github.com/andreeeeh/nostos/assets/144232373/bd978494-5d76-4c0b-be0c-efc0620f1fb4)
+![image](https://github.com/andreeeeh/nostos/assets/144232373/932c1de4-37d4-4fa2-9eea-67950ee58c97)
+![image](https://github.com/andreeeeh/nostos/assets/144232373/24003d47-a09b-4a5c-b4a6-c3286cc6d3f5)
 
 # Instructions for running
 
